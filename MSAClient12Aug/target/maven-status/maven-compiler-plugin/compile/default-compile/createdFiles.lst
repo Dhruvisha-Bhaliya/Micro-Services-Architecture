@@ -1,0 +1,9 @@
+com/mycompany/msaclient12aug/service/ExampleService.class
+com/mycompany/msaclient12aug/config/BootStrap.class
+com/mycompany/msaclient12aug/service/package-info.class
+MSAServlet.class
+model/User.class
+com/mycompany/msaclient12aug/service/HealthCheckService.class
+com/mycompany/msaclient12aug/config/CrossOriginResourceSharingFilter.class
+com/mycompany/msaclient12aug/config/Producers.class
+client/UserClient.class

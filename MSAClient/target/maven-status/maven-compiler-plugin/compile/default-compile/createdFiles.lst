@@ -1,0 +1,8 @@
+com/mycompany/msaclient/service/ExampleService.class
+com/mycompany/msaclient/config/BootStrap.class
+NewServlet.class
+client/MyRestClient.class
+com/mycompany/msaclient/service/HealthCheckService.class
+com/mycompany/msaclient/config/CrossOriginResourceSharingFilter.class
+com/mycompany/msaclient/service/package-info.class
+com/mycompany/msaclient/config/Producers.class

@@ -1,0 +1,10 @@
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/com/mycompany/msaapp12aug/config/BootStrap.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/com/mycompany/msaapp12aug/config/CrossOriginResourceSharingFilter.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/com/mycompany/msaapp12aug/config/Producers.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/com/mycompany/msaapp12aug/service/ExampleService.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/com/mycompany/msaapp12aug/service/HealthCheckService.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/com/mycompany/msaapp12aug/service/package-info.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/ejb/UserBean.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/ejb/UserBeanLocal.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/entity/User.java
+/root/ICT3_05/MSA/MSAApp12Aug/src/main/java/service/UserService.java

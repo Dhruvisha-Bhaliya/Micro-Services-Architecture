@@ -1,0 +1,6 @@
+com/mycompany/msaresource/config/BootStrap.class
+com/mycompany/msaresource/service/ExampleService.class
+com/mycompany/msaresource/service/package-info.class
+com/mycompany/msaresource/config/Producers.class
+com/mycompany/msaresource/service/HealthCheckService.class
+com/mycompany/msaresource/config/CrossOriginResourceSharingFilter.class

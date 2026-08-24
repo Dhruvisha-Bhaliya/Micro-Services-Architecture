@@ -1,0 +1,5 @@
+#!/bin/sh
+mvn clean package
+docker build -t dhruvishabhaliya/MSAApp12Aug .
+docker rm -f MSAApp12Aug 2>/dev/null || true
+docker run -it --name MSAApp12Aug -p 8080:8080 --name MSAApp12Aug dhruvishabhaliya/MSAApp12Aug

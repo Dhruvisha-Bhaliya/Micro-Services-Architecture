@@ -1,0 +1,6 @@
+/root/ICT3_05/MSA/MSAResource/src/main/java/com/mycompany/msaresource/config/BootStrap.java
+/root/ICT3_05/MSA/MSAResource/src/main/java/com/mycompany/msaresource/config/CrossOriginResourceSharingFilter.java
+/root/ICT3_05/MSA/MSAResource/src/main/java/com/mycompany/msaresource/config/Producers.java
+/root/ICT3_05/MSA/MSAResource/src/main/java/com/mycompany/msaresource/service/ExampleService.java
+/root/ICT3_05/MSA/MSAResource/src/main/java/com/mycompany/msaresource/service/HealthCheckService.java
+/root/ICT3_05/MSA/MSAResource/src/main/java/com/mycompany/msaresource/service/package-info.java

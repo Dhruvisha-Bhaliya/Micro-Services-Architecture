@@ -1,0 +1,10 @@
+ejb/UserBean.class
+com/mycompany/msaapp12aug/config/CrossOriginResourceSharingFilter.class
+com/mycompany/msaapp12aug/service/package-info.class
+service/UserService.class
+com/mycompany/msaapp12aug/service/ExampleService.class
+com/mycompany/msaapp12aug/service/HealthCheckService.class
+ejb/UserBeanLocal.class
+entity/User.class
+com/mycompany/msaapp12aug/config/Producers.class
+com/mycompany/msaapp12aug/config/BootStrap.class

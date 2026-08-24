@@ -1,0 +1,5 @@
+#!/bin/sh
+mvn clean package
+docker build -t dhruvishabhaliya/MSAClient12Aug .
+docker rm -f MSAClient12Aug 2>/dev/null || true
+docker run -it --name MSAClient12Aug -p 8080:8080 --name MSAClient12Aug dhruvishabhaliya/MSAClient12Aug
