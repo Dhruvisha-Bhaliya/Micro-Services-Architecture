@@ -1,0 +1,10 @@
+com\mycompany\stockapplication\service\HealthCheckService.class
+com\mycompany\stockapplication\config\CrossOriginResourceSharingFilter.class
+ejb\StockBeanLocal.class
+ejb\StockBean.class
+com\mycompany\stockapplication\service\ExampleService.class
+model\Stocks.class
+model\Category.class
+com\mycompany\stockapplication\config\BootStrap.class
+com\mycompany\stockapplication\config\Producers.class
+com\mycompany\stockapplication\service\package-info.class

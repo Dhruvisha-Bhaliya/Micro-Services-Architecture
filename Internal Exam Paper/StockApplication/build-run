@@ -1,0 +1,5 @@
+#!/bin/sh
+mvn clean package
+docker build -t dhruvishabhaliya/StockApplication .
+docker rm -f StockApplication 2>/dev/null || true
+docker run -it --name StockApplication -p 8080:8080 --name StockApplication dhruvishabhaliya/StockApplication

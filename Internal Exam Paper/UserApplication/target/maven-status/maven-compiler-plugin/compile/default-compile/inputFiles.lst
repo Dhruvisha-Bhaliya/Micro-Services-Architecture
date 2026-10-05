@@ -1,0 +1,10 @@
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\com\mycompany\userapplication\config\BootStrap.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\com\mycompany\userapplication\config\CrossOriginResourceSharingFilter.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\com\mycompany\userapplication\config\Producers.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\com\mycompany\userapplication\service\ExampleService.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\com\mycompany\userapplication\service\HealthCheckService.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\com\mycompany\userapplication\service\package-info.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\model\Category.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\model\Stocks.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\restclient\StockClient.java
+D:\Micro Services Architecture\Internal Exam Paper\UserApplication\src\main\java\servlet\StockServlet.java

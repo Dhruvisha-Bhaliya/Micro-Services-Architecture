@@ -1,0 +1,10 @@
+com\mycompany\userapplication\config\CrossOriginResourceSharingFilter.class
+com\mycompany\userapplication\service\package-info.class
+com\mycompany\userapplication\config\Producers.class
+servlet\StockServlet.class
+com\mycompany\userapplication\service\ExampleService.class
+model\Stocks.class
+com\mycompany\userapplication\service\HealthCheckService.class
+model\Category.class
+com\mycompany\userapplication\config\BootStrap.class
+restclient\StockClient.class
