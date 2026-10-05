@@ -1,0 +1,10 @@
+D:\MSA_CRUD\MSAResource\src\main\java\com\mycompany\msaresource\config\BootStrap.java
+D:\MSA_CRUD\MSAResource\src\main\java\com\mycompany\msaresource\config\CrossOriginResourceSharingFilter.java
+D:\MSA_CRUD\MSAResource\src\main\java\com\mycompany\msaresource\config\Producers.java
+D:\MSA_CRUD\MSAResource\src\main\java\com\mycompany\msaresource\service\ExampleService.java
+D:\MSA_CRUD\MSAResource\src\main\java\com\mycompany\msaresource\service\HealthCheckService.java
+D:\MSA_CRUD\MSAResource\src\main\java\com\mycompany\msaresource\service\package-info.java
+D:\MSA_CRUD\MSAResource\src\main\java\ejb\UserBean.java
+D:\MSA_CRUD\MSAResource\src\main\java\ejb\UserBeanLocal.java
+D:\MSA_CRUD\MSAResource\src\main\java\entity\User.java
+D:\MSA_CRUD\MSAResource\src\main\java\service\UserService.java

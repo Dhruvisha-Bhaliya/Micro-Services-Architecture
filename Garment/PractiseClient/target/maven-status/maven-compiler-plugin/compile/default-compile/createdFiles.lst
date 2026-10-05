@@ -1,0 +1,9 @@
+Client\GarmentClient.class
+com\mycompany\practiseclient\service\HealthCheckService.class
+com\mycompany\practiseclient\service\package-info.class
+servlet\GarmentServlet.class
+com\mycompany\practiseclient\config\CrossOriginResourceSharingFilter.class
+com\mycompany\practiseclient\config\BootStrap.class
+model\Garmentmaster.class
+com\mycompany\practiseclient\config\Producers.class
+com\mycompany\practiseclient\service\ExampleService.class

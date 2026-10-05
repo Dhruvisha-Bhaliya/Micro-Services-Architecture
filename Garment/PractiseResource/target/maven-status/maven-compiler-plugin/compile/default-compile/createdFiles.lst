@@ -1,0 +1,10 @@
+ejb\GarmentBeanLocal.class
+com\mycompany\practiseresource\config\Producers.class
+com\mycompany\practiseresource\service\package-info.class
+ejb\GarmentBean.class
+entity\Garmentmaster.class
+com\mycompany\practiseresource\service\HealthCheckService.class
+com\mycompany\practiseresource\service\ExampleService.class
+com\mycompany\practiseresource\service\GarmentService.class
+com\mycompany\practiseresource\config\CrossOriginResourceSharingFilter.class
+com\mycompany\practiseresource\config\BootStrap.class

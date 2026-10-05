@@ -1,0 +1,2 @@
+create-jdbc-connection-pool --datasourceclassname=com.mysql.cj.jdbc.MysqlDataSource --property user=root:password=Dhruvi:url=jdbc\:mysql\://localhost\:3306/test msapool
+create-jdbc-resource --connectionpoolid msapool jdbc/msapool

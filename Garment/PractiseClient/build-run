@@ -1,0 +1,5 @@
+#!/bin/sh
+mvn clean package
+docker build -t test/PractiseClient .
+docker rm -f PractiseClient 2>/dev/null || true
+docker run -it --name PractiseClient -p 8080:8080 --name PractiseClient test/PractiseClient

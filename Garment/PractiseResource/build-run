@@ -1,0 +1,5 @@
+#!/bin/sh
+mvn clean package
+docker build -t test/PractiseResource .
+docker rm -f PractiseResource 2>/dev/null || true
+docker run -it --name PractiseResource -p 8080:8080 --name PractiseResource test/PractiseResource

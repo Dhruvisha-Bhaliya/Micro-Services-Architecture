@@ -1,0 +1,9 @@
+com\mycompany\empclient\service\HealthCheckService.class
+model\Emp.class
+servlet\EmpServlet.class
+com\mycompany\empclient\service\ExampleService.class
+com\mycompany\empclient\service\package-info.class
+com\mycompany\empclient\config\CrossOriginResourceSharingFilter.class
+com\mycompany\empclient\config\Producers.class
+client\EmpClient.class
+com\mycompany\empclient\config\BootStrap.class

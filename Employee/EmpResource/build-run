@@ -1,0 +1,5 @@
+#!/bin/sh
+mvn clean package
+docker build -t dhruvishabhaliya/EmpResource .
+docker rm -f EmpResource 2>/dev/null || true
+docker run -it --name EmpResource -p 8080:8080 --name EmpResource dhruvishabhaliya/EmpResource

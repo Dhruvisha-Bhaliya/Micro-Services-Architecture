@@ -1,0 +1,10 @@
+com\mycompany\empresource\service\HealthCheckService.class
+com\mycompany\empresource\config\BootStrap.class
+ejb\EmpBean.class
+entity\Emp.class
+com\mycompany\empresource\service\EmployeeService.class
+com\mycompany\empresource\service\ExampleService.class
+ejb\EmpBeanLocal.class
+com\mycompany\empresource\config\Producers.class
+com\mycompany\empresource\service\package-info.class
+com\mycompany\empresource\config\CrossOriginResourceSharingFilter.class
